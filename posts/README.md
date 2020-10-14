@@ -12,3 +12,6 @@ OR
 docker run sumitsingh2809/posts
 docker ps
 docker exec -it <containerId> sh
+
+`PUSH to dockerhub`
+docker push sumitsingh2809/posts
