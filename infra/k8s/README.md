@@ -21,3 +21,6 @@ kubectl rollout restart deployment <DEPL NAME>
 
 `Print POD logs`
 kubectl logs <POD_ID>
+
+`List Services`
+kubectl get services
